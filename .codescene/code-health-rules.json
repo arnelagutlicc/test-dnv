@@ -10,21 +10,21 @@
     "matching_content_path" : "test/TestPOC/SamplesTests/**",
     "matching_content_path_doc" : "Specify a glob pattern relative to this repo root. **/* means all code, **/*.js means just JavaScript, test/** means all code in a top-level test folder.",
     "rules" : [ {
-      "name" : "Bumpy Road Ahead",
-      "weight" : 1.0
-    }, {
-      "name" : "Complex Method",
-      "weight" : 1.0
-    }, {
+      "name" : "Bumpy Road Ahead",
+      "weight" : 1.0
+    }, {
       "name" : "Code Duplication",
       "weight" : 0.0
     }, {
-      "name" : "Primitive Obsession",
-      "weight" : 0.0      
-    }, {
-      "name" : "Duplicated Function Blocks",
-      "weight" : 0.0
-    } ]
+      "name" : "Complex Method",
+      "weight" : 1.0
+    }, {
+      "name" : "Primitive Obsession",
+      "weight" : 0.0
+    }, {
+      "name" : "Duplicated Function Blocks",
+      "weight" : 0.0
+    } ]
   }
 ]
 }
