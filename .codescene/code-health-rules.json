@@ -16,10 +16,12 @@
       "name" : "Complex Method",
       "weight" : 1.0
     }, {
+      "name" : "Code Duplication",
+      "weight" : 0.0
+    }, {
       "name" : "Primitive Obsession",
       "weight" : 0.0      
-    } ,
-    {
+    } , {
       "name" : "Duplicated Function Blocks",
       "weight" : 0.0
     } ]
